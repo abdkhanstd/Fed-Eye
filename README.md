@@ -90,5 +90,5 @@ To download the pretrained weights (`best_model.pth`) for initializing the model
 
 ### Best Federated Model
 To test the results using the best federated model trained in this project:  
-[Download Best Federated Model](https://github.com/abdkhanstd/Fed-Eye/releases/latest)  
+[Download Best Federated Model](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EtMOmkgrT99LtGqAjXRnl84BNKo_VSUQJUYGhRH9_Rgncg?e=NP8Mvo)  
 *Note*: Download `best_federated_model_final.pth` and place it in the `conf_results/` directory. This link assumes the model is uploaded to the releases section of this repository.
